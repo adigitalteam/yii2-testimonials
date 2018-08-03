@@ -1,0 +1,21 @@
+{
+  "name": "adigitalteam/yii2-testimonials",
+  "description": "Testimonials of yii2",
+  "type": "yii2-extension",
+  "keywords": ["yii2","extension","testimonials","comment"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "adigitalteam",
+      "email": "adigital.team@inbox.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "adigitalteam\\testimonials\\": "src"
+    }
+  },
+  "support": {
+    "source": "https://github.com/adigitalteam/yii2-testimonials"
+  }
+}
